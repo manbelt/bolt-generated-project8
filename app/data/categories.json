@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "restaurants",
+      "title": "Restaurants",
+      "description": "Savor local and international cuisine"
+    },
+    {
+      "id": "accommodation",
+      "title": "Accommodation",
+      "description": "Find your perfect stay"
+    },
+    {
+      "id": "beaches",
+      "title": "Beaches",
+      "description": "Explore stunning coastlines"
+    },
+    {
+      "id": "nature",
+      "title": "Nature",
+      "description": "Discover natural wonders"
+    }
+  ]
+}
